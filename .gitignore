@@ -1,0 +1,16 @@
+# SQLite WAL
+*.db-shm
+*.db-wal
+
+# Logs PocketBase
+backend/pb_data/logs/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Variables d'environnement
+.env
+
+# VS Code
+.vscode/
